@@ -1,4 +1,4 @@
 Name: Ferran
 Age: 30
-Favorite Color: Green
+Favorite Color: Blue
 
